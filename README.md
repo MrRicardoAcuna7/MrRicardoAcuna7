@@ -12,4 +12,4 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 ![KDBQ](https://img.shields.io/badge/KDB%20-Q%2B-green)
 ### Find me at
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Ricardo_Acuna-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)(https://www.linkedin.com/in/ricardoacunacollado/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ricardo_Acuna-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/ricardoacunacollado/)
