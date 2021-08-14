@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello,my name is Ricardo Acuna "Richard" 👋
+--------------------------------------------
+Data Analyst - Reporting Analyst - Business Analyst
 
 <!--
 **MrRicardoAcuna7/MrRicardoAcuna7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ I'm a data professional started as a business Analyst in 2014 working  in SQL, Python, PowerBI and excel to extract and present data to stackholders, and taking business decision. After 5 years I started to work more in extract and  transform data  automating the process, I finally creating reports using python, SQL, KDB Q, SSAS, SSRS, SSIS,etc. Happy to keep growing and learning new technologies and data strategies.
