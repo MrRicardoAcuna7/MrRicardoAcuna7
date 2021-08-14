@@ -1,4 +1,4 @@
-### Hello,my name is Ricardo Acuna "Richard" 👋
+<img src="avatar.png" alt="drawing" width="200"/> ### Hello,my name is Ricardo Acuna "Richard" 👋
 --------------------------------------------
 Data Analyst - Reporting Analyst - Business Analyst
 
